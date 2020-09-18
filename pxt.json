@@ -1,5 +1,6 @@
 {
     "name": "심화반_200917_복습_내꿈 전광판",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
